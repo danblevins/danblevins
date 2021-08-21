@@ -1,5 +1,11 @@
 ### Hi there! I'm Dan 👋
 
+- 📫 How to reach me: hellodanblevins@gmail.com
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/dan-blevins/)
+- 📝 Read my [Medium articles](https://danblevins.medium.com/)
+- 📚 View my [Reading List](https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers)
+- 👨‍💻 Check out my [personal website](https://meetdanblevins.web.app/)
+
 <!--
 **danblevins/danblevins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
