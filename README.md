@@ -3,7 +3,7 @@
 - 📫 How to reach me: hellodanblevins@gmail.com
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/dan-blevins/)
 - 📝 Read my [Medium articles](https://danblevins.medium.com/)
-- 📚 View my [Reading List](https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers)
+- 📚 View my [reading list](https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers)
 - 👨‍💻 Check out my [personal website](https://meetdanblevins.web.app/)
 
 <!--
