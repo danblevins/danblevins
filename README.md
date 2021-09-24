@@ -36,12 +36,12 @@
       <td><a href="https://github.com/danblevins/im-hungry"><b>danblevins/im-hungry</b></a></td>
     </tr>
 	  <tr>
-      <td><a href=""><b>To be Updated Later</b></a></td>
-<td><a href=""><b>To be Updated Later</b></a></td>
+      <td><a href="https://theoffice-web.herokuapp.com/"><b>The Office SMS</b></a></td>
+<td><a href="https://github.com/danblevins/github_projects/tree/master/WebDevelopment/TheOfficeSMS"><b>Link</b></a></td>
     </tr>
     <tr>
-      <td><a href=""><b>To be Updated Later</b></a></td>
-      <td><a href=""><b>To be Updated Later</b></a></td>
+      <td><a href="https://mlfast-danblevins.herokuapp.com/"><b>mlFast</b></a></td>
+      <td><a href="https://github.com/danblevins/github_projects/tree/master/WebDevelopment/mlFast"><b>Link</b></a></td>
     </tr>
   </tbody>
 </table>
