@@ -35,13 +35,13 @@
       <td><a href="https://imhungry-danblevins.herokuapp.com/"><b>I'm Hungry</b></a></td>
       <td><a href="https://github.com/danblevins/im-hungry"><b>danblevins/im-hungry</b></a></td>
     </tr>
-	  <tr>
-      <td><a href="https://theoffice-web.herokuapp.com/"><b>The Office SMS</b></a></td>
-<td><a href="https://github.com/danblevins/github_projects/tree/master/WebDevelopment/TheOfficeSMS"><b>Link</b></a></td>
+    <tr>
+      <td><a href="https://oreoapi.herokuapp.com/"><b>Oreo API</b></a></td>
+      <td><a href="https://github.com/danblevins/oreoapi"><b>danblevins/oreoapi</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://mlfast-danblevins.herokuapp.com/"><b>mlFast</b></a></td>
-      <td><a href="https://github.com/danblevins/github_projects/tree/master/WebDevelopment/mlFast"><b>Link</b></a></td>
+      <td><a href="https://theoffice-web.herokuapp.com/"><b>The Office SMS</b></a></td>
+      <td><a href="https://github.com/danblevins/github_projects/tree/master/WebDevelopment/TheOfficeSMS"><b>Link</b></a></td>
     </tr>
   </tbody>
 </table>
