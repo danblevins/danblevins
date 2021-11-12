@@ -35,7 +35,7 @@
     <tr>
       <td><a href="https://oreoapi.herokuapp.com/"><b>Oreo API</b></a></td>
       <td><a href="https://github.com/danblevins/oreoapi"><b>danblevins/oreoapi</b></a></td>
-      <td>Receive random pictures of oreos as images or in json.</td>
+      <td>Receive random pictures of oreos as jpg/png images or in json.</td>
     </tr>
     <tr>
       <td><a href="https://imhungry-danblevins.herokuapp.com/"><b>I'm Hungry</b></a></td>
