@@ -35,17 +35,17 @@
     <tr>
       <td><a href="https://oreoapi.herokuapp.com/"><b>Oreo API</b></a></td>
       <td><a href="https://github.com/danblevins/oreoapi"><b>danblevins/oreoapi</b></a></td>
-      <td><b>Receive random pictures of oreos as images or in json.</b></td>
+      <td>Receive random pictures of oreos as images or in json.</td>
     </tr>
     <tr>
       <td><a href="https://imhungry-danblevins.herokuapp.com/"><b>I'm Hungry</b></a></td>
       <td><a href="https://github.com/danblevins/im-hungry"><b>danblevins/im-hungry</b></a></td>
-      <td><b>Search for your favorite restaurant using Yelp's QraphQL and Rest API.</b></td>
+      <td>Search for your favorite restaurant using Yelp's QraphQL and Rest API.</td>
     </tr>
     <tr>
       <td><a href="https://theoffice-web.herokuapp.com/"><b>The Office SMS</b></a></td>
       <td><a href="https://github.com/danblevins/github_projects/tree/master/WebDevelopment/TheOfficeSMS"><b>Link</b></a></td>
-      <td><b>Receive SMS text message quotes from your favorite character in The Office.</b></td>
+      <td>Receive SMS text message quotes from your favorite character in The Office.</td>
     </tr>
   </tbody>
 </table>
