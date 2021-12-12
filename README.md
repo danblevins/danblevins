@@ -5,7 +5,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -52,6 +52,7 @@
 
 <h3>My latest posts</h3>
 <ul>
+    <li><a href="https://danblevins.medium.com/my-reading-notes-from-the-little-book-of-boards-9303e5bf3b25" target="_blank"><b>My Reading Notes from The Little Book of Boards</b></a><br/><i></i></li>
     <li><a href="https://danblevins.medium.com/step-by-step-creating-a-flask-app-and-deploying-it-to-heroku-83350be5f8b" target="_blank"><b>Step-by-Step: Creating a Flask app and Deploying it to Heroku</b></a><br/><i></i></li>
     <li><a href="https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802" target="_blank"><b>My Reading Notes from Design Patterns: Elements of Reusable Object-Oriented Software</b></a><br/><i></i></li>
   <li><a href="https://danblevins.medium.com/step-by-step-reading-and-querying-data-in-sqlite-using-python-7dc10118c49c" target="_blank"><b>Step-by-Step: Reading and Querying Data in SQLite using Python</b></a><br/><i></i></li>
