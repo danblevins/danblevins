@@ -45,7 +45,7 @@
     <tr>
       <td><a href="https://theoffice-web.herokuapp.com/"><b>The Office SMS</b></a></td>
       <td><a href="https://github.com/danblevins/the-office-sms"><b>danblevins/the-office-sms</b></a></td>
-      <td>Receive SMS text message quotes from your favorite character in The Office.</td>
+      <td>Receive text message quotes from your favorite character in The Office.</td>
     </tr>
   </tbody>
 </table>
