@@ -47,6 +47,11 @@
       <td><a href="https://github.com/danblevins/the-office-sms"><b>danblevins/the-office-sms</b></a></td>
       <td>Receive text message quotes from your favorite character in The Office.</td>
     </tr>
+    <tr>
+      <td><a href="https://miro.medium.com/max/700/1*pH1QFCu0uOPIFWiooJDUCg.png"><b>Top Stock Gainers</b></a></td>
+      <td><a href="https://github.com/danblevins/top-stock-gainers"><b>danblevins/top-stock-gainers</b></a></td>
+      <td>Receive the top 3 stock gainers of the day via GroupMe.</td>
+    </tr>
   </tbody>
 </table>
 
