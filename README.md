@@ -1,5 +1,17 @@
 <h1>Hi there! I'm Dan Blevins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
+<p>I design, develop, and maintain data applications and services integrated with cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Outside of work, I enjoy:</p>
+<ul>
+    <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
+    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles" target="_blank">articles</a>. Mostly about industries, sometimes about subcultures.</li>
+    <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
+    <li><a href="https://www.bellevuecollege.edu/ibit/data-analytics/" target="_blank">Volunteering</a> on the Data Analytics Board of Advisors at Bellevue College.</li>
+    <li><a href="https://www.jmu.edu/cob/economics/about/executive-advisory-board.shtml" target="_blank">Advising & Mentoring</a> at James Madison University (JMU).</li>
+    <li><a href="https://www.linkedin.com/groups/8402100/" target="_blank">Building</a> an online community for the JMU Economics department.</li>
+</ul>
+
+<h1></h1>
+
 <h3>I code using</h3>
 
 <p>
