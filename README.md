@@ -58,6 +58,17 @@
 </table>
 
 <br>
+<h1></h1>
+
+<h3 align="center">Resources</h3>
+<ul>
+  ☁️ <a href="https://github.com/danblevins/aws-cloud-study-guide" target="_blank">AWS Cloud Study Guide: A study guide to learn about the most widely used AWS services.</b></a><br/>
+  🐍 <a href="https://github.com/danblevins/flask-template" target="_blank">Python Flask Template: A beginner template for the Python Flask library.</b></a><br/>
+  💻 <a href="https://github.com/danblevins/list-of-terminal-command-aliases" target="_blank">List of Terminal Command Aliases: Command aliases currently on my personal terminal.</b></a><br/>
+  📄 <a href="https://github.com/danblevins/articles" target="_blank">Articles: A curated list of thought provoking and informative articles.</b></a><br/>
+</ul>
+
+<br>
 
 <h3 align="center">Connect</h3>
 <p align="center"><a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">LinkedIn</a> ; <a href="https://danblevins.medium.com/" target="_blank">Medium</a> ; <a href="https://github.com/danblevins" target="_blank">GitHub</a>
