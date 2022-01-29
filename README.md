@@ -42,7 +42,7 @@
     <tr>
       <td><a href="https://groupme-nlp.herokuapp.com/"><b>GroupMe NLP</b></a></td>
       <td><b>Under Construction</b></a></td>
-      <td>Analyzing and performing NLP on GroupMe data.</td>
+      <td>Analyze and perform NLP on GroupMe data.</td>
     </tr>
     <tr>
       <td><a href="https://imhungry-danblevins.herokuapp.com/"><b>I'm Hungry</b></a></td>
