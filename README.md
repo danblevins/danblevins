@@ -76,7 +76,7 @@
 <br>
 
 <h3 align="center">Connect</h3>
-<p align="center"><a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">LinkedIn</a> ; <a href="https://danblevins.medium.com/" target="_blank">Medium</a> ; <a href="https://github.com/danblevins" target="_blank">GitHub</a>
+<p align="center"><a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">LinkedIn</a> ; <a href="https://github.com/danblevins" target="_blank">GitHub</a> ; <a href="https://danblevins.medium.com/" target="_blank">Medium</a> ; <a href="https://meetdanblevins.web.app/" target="_blank">Website</a>
 </p>
 
 ------------
