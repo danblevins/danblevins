@@ -67,10 +67,10 @@
 
 <h3 align="center">Resources</h3>
 <ul>
-  ☁️ <a href="https://github.com/danblevins/aws-cloud-study-guide" target="_blank">AWS Cloud Study Guide: A study guide to learn about the most widely used AWS services.</b></a><br/>
+  ☁️ <a href="https://github.com/danblevins/aws-cloud-study-guide/blob/main/README.md" target="_blank">AWS Cloud Study Guide: A study guide to learn about the most widely used AWS services.</b></a><br/>
   🐍 <a href="https://github.com/danblevins/flask-template" target="_blank">Python Flask Template: A beginner template for the Python Flask library.</b></a><br/>
-  💻 <a href="https://github.com/danblevins/list-of-terminal-command-aliases" target="_blank">List of Terminal Command Aliases: Command aliases currently on my personal terminal.</b></a><br/>
-  📄 <a href="https://github.com/danblevins/articles" target="_blank">Articles: A curated list of thought provoking and informative articles.</b></a><br/>
+  💻 <a href="https://github.com/danblevins/list-of-terminal-command-aliases/blob/main/README.md" target="_blank">List of Terminal Command Aliases: Command aliases currently on my personal terminal.</b></a><br/>
+  📄 <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">Articles: A curated list of thought provoking and informative articles.</b></a><br/>
 </ul>
 
 <br>
