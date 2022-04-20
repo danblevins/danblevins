@@ -12,18 +12,6 @@
 
 <h1></h1>
 
-<h3 align="center">Latest Posts</h3>
-<ul>
-    <a href="https://danblevins.medium.com/my-reading-notes-from-the-little-book-of-boards-9303e5bf3b25" target="_blank"><b>My Reading Notes from The Little Book of Boards</b></a><br/>
-    <a href="https://danblevins.medium.com/step-by-step-creating-a-flask-app-and-deploying-it-to-heroku-83350be5f8b" target="_blank"><b>Step-by-Step: Creating a Flask app and Deploying it to Heroku</b></a><br/>
-    <a href="https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802" target="_blank"><b>My Reading Notes from Design Patterns: Elements of Reusable Object-Oriented Software</b></a><br/>
-  <a href="https://danblevins.medium.com/step-by-step-reading-and-querying-data-in-sqlite-using-python-7dc10118c49c" target="_blank"><b>Step-by-Step: Reading and Querying Data in SQLite using Python</b></a><br/>
-  <a href="https://medium.com/analytics-vidhya/step-by-step-web-scraping-every-line-from-the-office-in-python-3b28768c56f4" target="_blank"><b>Step-by-Step: Web Scraping Every Line from “The Office” in Python
-</b></a><br/>
-</ul>
-
-<br>
-
 <h3 align="center">Personal Projects</h3>
 <table>
   <thead align="center">
@@ -61,6 +49,18 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<h3 align="center">Latest Posts</h3>
+<ul>
+    <a href="https://danblevins.medium.com/my-reading-notes-from-the-little-book-of-boards-9303e5bf3b25" target="_blank"><b>My Reading Notes from The Little Book of Boards</b></a><br/>
+    <a href="https://danblevins.medium.com/step-by-step-creating-a-flask-app-and-deploying-it-to-heroku-83350be5f8b" target="_blank"><b>Step-by-Step: Creating a Flask app and Deploying it to Heroku</b></a><br/>
+    <a href="https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802" target="_blank"><b>My Reading Notes from Design Patterns: Elements of Reusable Object-Oriented Software</b></a><br/>
+  <a href="https://danblevins.medium.com/step-by-step-reading-and-querying-data-in-sqlite-using-python-7dc10118c49c" target="_blank"><b>Step-by-Step: Reading and Querying Data in SQLite using Python</b></a><br/>
+  <a href="https://medium.com/analytics-vidhya/step-by-step-web-scraping-every-line-from-the-office-in-python-3b28768c56f4" target="_blank"><b>Step-by-Step: Web Scraping Every Line from “The Office” in Python
+</b></a><br/>
+</ul>
 
 <br>
 <h1></h1>
