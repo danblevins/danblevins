@@ -3,7 +3,7 @@
 <p>I design, develop, and maintain data applications and services integrated with cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Outside of work, I enjoy:</p>
 <ul>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
-    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles" target="_blank">articles</a>. Mostly about industries, sometimes about subcultures.</li>
+    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>. Mostly about industries, sometimes about subcultures.</li>
     <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
     <li><a href="https://www.bellevuecollege.edu/ibit/data-analytics/" target="_blank">Volunteering</a> on the Data Analytics Board of Advisors at Bellevue College.</li>
     <li><a href="https://www.jmu.edu/cob/economics/about/executive-advisory-board.shtml" target="_blank">Advising & Mentoring</a> at James Madison University (JMU).</li>
@@ -54,12 +54,11 @@
 
 <h3 align="center">Latest Posts</h3>
 <ul>
+        <a href="https://medium.com/@danblevins/the-machine-learning-pipeline-in-scikit-learn-2b2c18c94903" target="_blank"><b>The Machine Learning Steps in Scikit-learn</b></a><br/>
     <a href="https://danblevins.medium.com/my-reading-notes-from-the-little-book-of-boards-9303e5bf3b25" target="_blank"><b>My Reading Notes from The Little Book of Boards</b></a><br/>
     <a href="https://danblevins.medium.com/step-by-step-creating-a-flask-app-and-deploying-it-to-heroku-83350be5f8b" target="_blank"><b>Step-by-Step: Creating a Flask app and Deploying it to Heroku</b></a><br/>
     <a href="https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802" target="_blank"><b>My Reading Notes from Design Patterns: Elements of Reusable Object-Oriented Software</b></a><br/>
   <a href="https://danblevins.medium.com/step-by-step-reading-and-querying-data-in-sqlite-using-python-7dc10118c49c" target="_blank"><b>Step-by-Step: Reading and Querying Data in SQLite using Python</b></a><br/>
-  <a href="https://medium.com/analytics-vidhya/step-by-step-web-scraping-every-line-from-the-office-in-python-3b28768c56f4" target="_blank"><b>Step-by-Step: Web Scraping Every Line from “The Office” in Python
-</b></a><br/>
 </ul>
 
 <br>
