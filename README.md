@@ -23,14 +23,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://groupme-nlp.herokuapp.com/"><b>GroupMe NLP</b></a></td>
-      <td><a href="https://github.com/danblevins/groupme-nlp"><b>danblevins/groupme-nlp</b></a></td>
-      <td>Analyze and perform NLP on GroupMe data.</td>
-    </tr>
-    <tr>
       <td><a href="https://oreoapi.herokuapp.com/"><b>Oreo API</b></a></td>
       <td><a href="https://github.com/danblevins/oreoapi"><b>danblevins/oreoapi</b></a></td>
       <td>Receive random pictures of oreos as jpg/png images or in json.</td>
+    </tr>
+    <tr>
+      <td><a href="https://isitraininginseattle.surge.sh/"><b>Is it Raining in Seattle?</b></a></td>
+      <td><a href="https://github.com/danblevins/is-it-raining-in-seattle"><b>danblevins/is-it-raining-in-seattle</b></a></td>
+      <td>Check if it's currently raining in Seattle.</td>
+    </tr>
+    <tr>
+      <td><a href="https://groupme-nlp.herokuapp.com/"><b>GroupMe NLP</b></a></td>
+      <td><a href="https://github.com/danblevins/groupme-nlp"><b>danblevins/groupme-nlp</b></a></td>
+      <td>Analyze and perform NLP on GroupMe data.</td>
     </tr>
     <tr>
       <td><a href="https://imhungry-danblevins.herokuapp.com/"><b>I'm Hungry</b></a></td>
