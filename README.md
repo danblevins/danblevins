@@ -30,7 +30,7 @@
     <tr>
       <td><a href="https://isitraininginseattle.surge.sh/"><b>Is it Raining in Seattle?</b></a></td>
       <td><a href="https://github.com/danblevins/is-it-raining-in-seattle"><b>danblevins/is-it-raining-in-seattle</b></a></td>
-      <td>Check if it's currently raining in Seattle.</td>
+      <td>Find out if it's currently raining in Seattle.</td>
     </tr>
     <tr>
       <td><a href="https://groupme-nlp.surge.sh/"><b>GroupMe NLP</b></a></td>
