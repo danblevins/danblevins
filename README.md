@@ -43,7 +43,7 @@
       <td>Search for your favorite restaurant using Yelp's QraphQL and Rest API.</td>
     </tr>
     <tr>
-      <td><a href="https://theoffice-web.herokuapp.com/"><b>The Office SMS</b></a></td>
+      <td><a href="https://the-office-sms.surge.sh/"><b>The Office SMS</b></a></td>
       <td><a href="https://github.com/danblevins/the-office-sms"><b>danblevins/the-office-sms</b></a></td>
       <td>Receive text message quotes from your favorite character in The Office.</td>
     </tr>
