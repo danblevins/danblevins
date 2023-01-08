@@ -33,7 +33,7 @@
       <td>Find out if it's currently raining in Seattle.</td>
     </tr>
     <tr>
-      <td><b>Oreo API</b></td>
+      <td><a href="https://oreo-api.surge.sh/"><b>Oreo API</b></td>
       <td><a href="https://github.com/danblevins/oreoapi"><b>danblevins/oreoapi</b></a></td>
       <td>Receive random pictures of oreos as jpg/png images or in json.</td>
     </tr>
