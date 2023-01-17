@@ -25,7 +25,7 @@
     <tr>
       <td><a href="https://dan-recipes.surge.sh/"><b>Dan's Recipes</b></a></td>
       <td><a href="https://github.com/danblevins/recipes"><b>danblevins/recipes</b></a></td>
-      <td>Take a look at all the meals I've made in 2023.</td>
+      <td>Take a look at the recipes I've made in 2023.</td>
     </tr>
     <tr>
       <td><a href="https://groupme-nlp.surge.sh/"><b>GroupMe NLP</b></a></td>
