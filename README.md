@@ -2,6 +2,7 @@
 
 <p>I design, develop, and maintain data applications and services integrated with cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Outside of work, I enjoy:</p>
 <ul>
+    <li>Being engaged to <a href="https://taeyaharle.com/" target="_blank">Taeya Harle</a>.</li>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
     <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>. Mostly about industries, sometimes about subcultures.</li>
     <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
