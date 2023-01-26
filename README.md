@@ -4,11 +4,10 @@
 <ul>
     <li>Being engaged to <a href="https://taeyaharle.com/" target="_blank">Taeya Harle</a>.</li>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
-    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>. Mostly about industries, sometimes about subcultures.</li>
+    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>. Mostly about business, sometimes about subcultures.</li>
     <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
     <li><a href="https://www.bellevuecollege.edu/ibit/data-analytics/" target="_blank">Volunteering</a> on the Data Analytics Board of Advisors at Bellevue College.</li>
-    <li><a href="https://www.jmu.edu/cob/economics/about/executive-advisory-board.shtml" target="_blank">Advising & Mentoring</a> at James Madison University (JMU).</li>
-    <li><a href="https://www.linkedin.com/groups/8402100/" target="_blank">Building</a> an online community for the JMU Economics department.</li>
+    <li><a href="https://www.linkedin.com/groups/8402100/" target="_blank">Building</a> an online community for the James Madison University (JMU) Economics department.</li>
 </ul>
 
 <h1></h1>
