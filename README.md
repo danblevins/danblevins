@@ -65,11 +65,11 @@
 
 <h3 align="center">Latest Posts</h3>
 <ul>
+        <a href="https://danblevins.medium.com/how-im-learning-to-play-the-harmonica-e30db3a2607e" target="_blank"><b>How I’m Learning to Play the Harmonica</b></a><br/>
         <a href="https://medium.com/@danblevins/the-machine-learning-pipeline-in-scikit-learn-2b2c18c94903" target="_blank"><b>The Machine Learning Steps in Scikit-learn</b></a><br/>
     <a href="https://danblevins.medium.com/my-reading-notes-from-the-little-book-of-boards-9303e5bf3b25" target="_blank"><b>My Reading Notes from The Little Book of Boards</b></a><br/>
     <a href="https://danblevins.medium.com/step-by-step-creating-a-flask-app-and-deploying-it-to-heroku-83350be5f8b" target="_blank"><b>Step-by-Step: Creating a Flask app and Deploying it to Heroku</b></a><br/>
     <a href="https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802" target="_blank"><b>My Reading Notes from Design Patterns: Elements of Reusable Object-Oriented Software</b></a><br/>
-  <a href="https://danblevins.medium.com/step-by-step-reading-and-querying-data-in-sqlite-using-python-7dc10118c49c" target="_blank"><b>Step-by-Step: Reading and Querying Data in SQLite using Python</b></a><br/>
 </ul>
 
 <br>
@@ -78,7 +78,6 @@
 <h3 align="center">Resources</h3>
 <ul>
   ☁️ <a href="https://github.com/danblevins/aws-cloud-study-guide/blob/main/README.md" target="_blank">AWS Cloud Study Guide: A study guide to learn about the most widely used AWS services.</b></a><br/>
-  🐍 <a href="https://github.com/danblevins/flask-template" target="_blank">Python Flask Template: A beginner template for the Python Flask library.</b></a><br/>
   💻 <a href="https://github.com/danblevins/list-of-terminal-command-aliases/blob/main/README.md" target="_blank">List of Terminal Command Aliases: Command aliases currently on my personal terminal.</b></a><br/>
   📄 <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">Articles: A curated list of thought provoking and informative articles.</b></a><br/>
 </ul>
