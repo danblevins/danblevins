@@ -4,9 +4,9 @@
 <ul>
     <li>Being married to <a href="https://taeyaharle.com/" target="_blank">Taeya Harle</a>.</li>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
-    <li>Creating slow/fast and reverb <a href="https://www.youtube.com/@danblevins" target="_blank">songs</a>.</li>
     <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>. Mostly about business, sometimes about subcultures.</li>
     <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
+    <li>Creating slow/fast and reverb <a href="https://www.youtube.com/@danblevins" target="_blank">songs</a>.</li>
     <li><a href="https://www.linkedin.com/groups/14105124/" target="_blank">Volunteering</a> on the James Madison University (JMU) Seattle Alumni Chapter Board.</li>
     <li><a href="https://www.linkedin.com/groups/8402100/" target="_blank">Building</a> an online community for JMU Economics students and alumni.</li>
 </ul>
