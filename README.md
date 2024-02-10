@@ -24,6 +24,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://isitraininginseattle.surge.sh/"><b>Is it Raining in Seattle?</b></a></td>
+      <td><a href="https://github.com/danblevins/is-it-raining-in-seattle"><b>danblevins/is-it-raining-in-seattle</b></a></td>
+      <td>Find out if it's currently raining in Seattle.</td>
+    </tr>
+    <tr>
       <td><a href="https://dan-recipes.surge.sh/"><b>Dan's Recipes</b></a></td>
       <td><a href="https://github.com/danblevins/recipes"><b>danblevins/recipes</b></a></td>
       <td>Take a look at the recipes I've made in 2023.</td>
@@ -32,11 +37,6 @@
       <td><a href="https://groupme-nlp.surge.sh/"><b>GroupMe NLP</b></a></td>
       <td><a href="https://github.com/danblevins/groupme-nlp"><b>danblevins/groupme-nlp</b></a></td>
       <td>Analyze and perform NLP on GroupMe data.</td>
-    </tr>
-    <tr>
-      <td><a href="https://isitraininginseattle.surge.sh/"><b>Is it Raining in Seattle?</b></a></td>
-      <td><a href="https://github.com/danblevins/is-it-raining-in-seattle"><b>danblevins/is-it-raining-in-seattle</b></a></td>
-      <td>Find out if it's currently raining in Seattle.</td>
     </tr>
     <tr>
       <td><a href="https://oreo-api.surge.sh/"><b>Oreo API</b></td>
