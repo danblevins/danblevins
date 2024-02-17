@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Dan Blevins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+<h1>Hi there, I'm Dan Blevins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p>I design, develop, and maintain data applications and services integrated with cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Outside of work, I enjoy:</p>
 <ul>
