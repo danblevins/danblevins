@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Dan Blevins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-<p>I design, develop, and maintain data software, applications, and services integrated with cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Outside of work, I enjoy:</p>
+<p>I design, develop, and maintain data software, applications, and services integrated with cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Besides work, I enjoy:</p>
 <ul>
     <li>Being married to <a href="https://taeyaharle.com/" target="_blank">Taeya Harle</a>.</li>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
