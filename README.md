@@ -4,10 +4,10 @@
 <ul>
     <li>Being married to <a href="https://taeyaharle.com/" target="_blank">Taeya Harle</a>.</li>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
-    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>. Mostly about business, sometimes about subcultures.</li>
+    <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>.</li>
     <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
     <li>Creating slow/fast and reverb <a href="https://www.youtube.com/@danblevins" target="_blank">songs</a>.</li>
-    <li><a href="https://www.linkedin.com/groups/14105124/" target="_blank">Volunteering</a> on the James Madison University (JMU) Seattle Alumni Chapter Board.</li>
+    <li><a href="https://www.alumni.jmu.edu/s/1591/18/interior.aspx?sid=1591&gid=3&pgid=5029" target="_blank">Volunteering</a> for James Madison University (JMU).</li>
     <li><a href="https://www.linkedin.com/groups/8402100/" target="_blank">Building</a> an online community for JMU Economics students and alumni.</li>
 </ul>
 
@@ -65,11 +65,11 @@
 
 <h3 align="center">Latest Posts</h3>
 <ul>
-        <a href="https://danblevins.medium.com/how-im-learning-to-play-the-harmonica-e30db3a2607e" target="_blank"><b>How I’m Learning to Play the Harmonica</b></a><br/>
-        <a href="https://medium.com/@danblevins/the-machine-learning-pipeline-in-scikit-learn-2b2c18c94903" target="_blank"><b>The Machine Learning Steps in Scikit-learn</b></a><br/>
+    <a href="https://danblevins.medium.com/questions-i-typically-ask-during-an-interview-c8a21c0d9d34" target="_blank"><b>Questions I Typically Ask During an Interview</b></a><br/>
+    <a href="https://danblevins.medium.com/how-we-built-raised-garden-beds-in-5-steps-ae5e8c95ed57" target="_blank"><b>How We Built Raised Garden Beds in 5 Steps</b></a><br/>
+    <a href="https://danblevins.medium.com/how-im-learning-to-play-the-harmonica-e30db3a2607e" target="_blank"><b>How I’m Learning to Play the Harmonica</b></a><br/>
+    <a href="https://medium.com/@danblevins/the-machine-learning-pipeline-in-scikit-learn-2b2c18c94903" target="_blank"><b>The Machine Learning Steps in Scikit-learn</b></a><br/>
     <a href="https://danblevins.medium.com/my-reading-notes-from-the-little-book-of-boards-9303e5bf3b25" target="_blank"><b>My Reading Notes from The Little Book of Boards</b></a><br/>
-    <a href="https://danblevins.medium.com/step-by-step-creating-a-flask-app-and-deploying-it-to-heroku-83350be5f8b" target="_blank"><b>Step-by-Step: Creating a Flask app and Deploying it to Heroku</b></a><br/>
-    <a href="https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802" target="_blank"><b>My Reading Notes from Design Patterns: Elements of Reusable Object-Oriented Software</b></a><br/>
 </ul>
 
 <br>
