@@ -65,7 +65,7 @@
 
 <h3 align="center">Latest Posts</h3>
 <ul>
-    <a href="https://danblevins.medium.com/questions-i-typically-ask-during-an-interview-c8a21c0d9d34" target="_blank"><b>Questions I Typically Ask During an Interview</b></a><br/>
+    <a href="https://danblevins.medium.com/advice-for-college-students-questions-to-ask-at-the-end-of-an-entry-level-interview-d1eca7236c8c" target="_blank"><b>Advice for College Students: Questions to Ask at the End of an Entry Level Interview</b></a><br/>
     <a href="https://danblevins.medium.com/how-we-built-raised-garden-beds-in-5-steps-ae5e8c95ed57" target="_blank"><b>How We Built Raised Garden Beds in 5 Steps</b></a><br/>
     <a href="https://danblevins.medium.com/how-im-learning-to-play-the-harmonica-e30db3a2607e" target="_blank"><b>How I’m Learning to Play the Harmonica</b></a><br/>
     <a href="https://medium.com/@danblevins/the-machine-learning-pipeline-in-scikit-learn-2b2c18c94903" target="_blank"><b>The Machine Learning Steps in Scikit-learn</b></a><br/>
