@@ -46,7 +46,7 @@
     <tr>
       <td><b>I'm Hungry</b></td>
       <td><a href="https://github.com/danblevins/im-hungry"><b>danblevins/im-hungry</b></a></td>
-      <td>Search for your favorite restaurant using Yelp's QraphQL and Rest API.</td>
+      <td>Search for your favorite restaurant using Yelp's GraphQL and Rest API.</td>
     </tr>
     <tr>
       <td><a href="https://the-office-sms.surge.sh/"><b>The Office SMS</b></a></td>
