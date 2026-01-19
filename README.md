@@ -7,7 +7,7 @@
     <li><a href="https://www.goodreads.com/review/list/73231520-dan?ref=nav_mybooks&shelf=read&view=covers" target="_blank">Reading books</a> and <a href="https://github.com/danblevins/articles/blob/main/README.md" target="_blank">articles</a>.</li>
     <li><a href="https://danblevins.medium.com/" target="_blank">Writing</a> how-to guides and notes.</li>
     <li>Creating slow/fast and reverb <a href="https://www.youtube.com/@danblevins" target="_blank">songs</a>.</li>
-    <li><a href="https://www.alumni.jmu.edu/s/1591/18/interior.aspx?sid=1591&gid=3&pgid=5029" target="_blank">Volunteering</a> for James Madison University (JMU).</li>
+    <li><a href="https://www.alumni.jmu.edu/s/1591/18/interior.aspx?sid=1591&gid=3&sitebuilder=1&pgid=10507&contentbuilder=1" target="_blank">Volunteering</a> for James Madison University (JMU).</li>
     <li><a href="https://www.linkedin.com/groups/8402100/" target="_blank">Building</a> an online community for JMU Economics students and alumni.</li>
 </ul>
 
