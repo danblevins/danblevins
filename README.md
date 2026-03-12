@@ -96,6 +96,5 @@
 
 ------------
 <p align="center">
-    <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg"/> 
     <img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 </p> 
