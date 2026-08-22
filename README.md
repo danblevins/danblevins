@@ -1,6 +1,4 @@
-<h1>Hi there, I'm Dan Blevins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
-
-<p>With over 9 years of software engineering, data engineering, and data science experience, I design, develop, maintain, and communicate data software, applications, and services integrated with GenAI and cloud computing. Currently, I'm a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Besides work, I enjoy:</p>
+<p>With over 9 years of software engineering, data engineering, and data science experience, Dan designs, develops, maintains, and communicates data software, applications, and services integrated with GenAI and cloud computing. Currently, he's a <a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Software Engineer at Amazon</a>. Besides work, he enjoys:</p>
 <ul>
     <li>Being married to <a href="https://theharlegroup.com/" target="_blank">Taeya Harle</a>.</li>
     <li><a href="https://github.com/danblevins/" target="_blank">Coding</a> and tinkering with small codebases.</li>
